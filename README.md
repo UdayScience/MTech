@@ -1,2 +1,2 @@
 # Efficient PageRank Solver: Implementing Google’s PageRank Algorithm with the Power Method
-**Description:** Developed a PageRank solver using the power method to analyze webpages of Indian tourism and Harvard University. Identified frequently visited pages for each website based on PageRank scores, revealing their importance.
+**Description:** We developed a PageRank solver using the power method to analyze the webpages related to Indian tourism and Harvard University. By doing so, we identified the most significant and frequently visited pages that are linked to these respective websites.The ranking was based on the calculated PageRank scores, which allowed us to determine the importance of each webpage within the context of its respective website.
